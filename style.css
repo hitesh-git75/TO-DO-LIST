@@ -104,5 +104,6 @@ ul li span:hover{
         margin-bottom: 0px;
     }
     button{
+        padding:3px;
         margin-right:25px;
 }
